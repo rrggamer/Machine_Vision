@@ -1,3 +1,5 @@
 *.avi
 *.jpg
 Contest/Contest_venv
+Contest/venv
+*.zip
