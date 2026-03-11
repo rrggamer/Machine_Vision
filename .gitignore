@@ -3,3 +3,4 @@
 Contest/Contest_venv
 Contest/venv
 *.zip
+*.keras
